@@ -3,6 +3,8 @@ let bagItems;
 onload();
 
 function onload() {
+  let bagItemStr = localStorage.getItem('bagItems');
+  bagItems = bagItemStr ? JSON.parse(bagItemStr) : [];
   displayItemsOnHomePage();
   displayBagItem();
 }
@@ -25,6 +27,9 @@ function displayBagItem() {
 
 function displayItemsOnHomePage() {
   let itemContainerElement = document.querySelector(".items-container");
+  if(!itemContainerElement){
+    return;
+  }
   let innerHtml = "";
   items.forEach((item) => {
     innerHtml += `
