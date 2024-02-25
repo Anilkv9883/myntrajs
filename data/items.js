@@ -1,0 +1,108 @@
+const items = [
+    {
+        id: '001',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+    {
+        id: '002',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+    {
+        id: '003',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+    {
+        id: '004',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+    {
+        id: '005',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+    {
+        id: '006',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+    {
+        id: '007',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+    {
+        id: '008',
+        item_image: '/images/item1.webp',
+        company_name: 'Carlton London',
+        item_name: 'Rhodium-Plated CZ Floral Studs',
+        current_price: 606,
+        original_price: 1045,
+        discount_percentage: 42,
+        rating: {
+            stars: 4.8,
+            noOfReviews: 1400,
+        },
+    },
+
+
+]
